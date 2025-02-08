@@ -1,3 +1,4 @@
 module.exports = {
-    output: 'standalone', // 必須
+    reactStrictMode: true,
+    output: 'standalone',
   };
