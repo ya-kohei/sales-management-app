@@ -1,0 +1,27 @@
+{
+  "name": "sales-management-app",
+  "version": "1.0.0",
+  "description": "売上管理アプリ",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "start": "next start",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ya-kohei/sales-management-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ya-kohei/sales-management-app/issues"
+  },
+  "homepage": "https://github.com/ya-kohei/sales-management-app#readme",
+  "dependencies": {
+    "next": "^15.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
